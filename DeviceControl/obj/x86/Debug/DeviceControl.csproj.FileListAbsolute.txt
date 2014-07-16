@@ -1,0 +1,30 @@
+E:\CSharpProjects\DeviceControl\DeviceControl\bin\Debug\DeviceControl.exe.config
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Debug\DeviceControl.Properties.Resources.resources
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\CSharpProjects\DeviceControl\DeviceControl\bin\Debug\DeviceControl.exe
+E:\CSharpProjects\DeviceControl\DeviceControl\bin\Debug\DeviceControl.pdb
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Debug\DeviceControl.exe
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Debug\DeviceControl.pdb
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Debug\DeviceControl.ScreenCapture.resources
+E:\mes\DeviceControl\DeviceControl\bin\Debug\DeviceControl.exe.config
+E:\mes\DeviceControl\DeviceControl\obj\x86\Debug\DeviceControl.exe
+E:\mes\DeviceControl\DeviceControl\obj\x86\Debug\DeviceControl.pdb
+E:\mes\DeviceControl\DeviceControl\bin\Debug\DeviceControl.exe
+E:\mes\DeviceControl\DeviceControl\bin\Debug\DeviceControl.pdb
+E:\mes\DeviceControl\DeviceControl\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\mes\DeviceControl\DeviceControl\obj\x86\Debug\DeviceControl.ScreenCapture.resources
+E:\mes\DeviceControl\DeviceControl\obj\x86\Debug\DeviceControl.Properties.Resources.resources
+E:\mes\DeviceControl\DeviceControl\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\mes\DeviceControl\DeviceControl\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\bin\Debug\DeviceControl.exe.config
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\DeviceControl.exe
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\DeviceControl.pdb
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\bin\Debug\DeviceControl.exe
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\bin\Debug\DeviceControl.pdb
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\DeviceControl.ScreenCapture.resources
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\DeviceControl.Properties.Resources.resources
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\GenerateResource.write.1.tlog

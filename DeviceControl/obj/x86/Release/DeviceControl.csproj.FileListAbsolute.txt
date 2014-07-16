@@ -1,0 +1,24 @@
+E:\CSharpProjects\DeviceControl\DeviceControl\bin\Release\DeviceControl.exe.config
+E:\CSharpProjects\DeviceControl\DeviceControl\bin\Release\DeviceControl.exe
+E:\CSharpProjects\DeviceControl\DeviceControl\bin\Release\DeviceControl.pdb
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Release\DeviceControl.ScreenCapture.resources
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Release\DeviceControl.Properties.Resources.resources
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Release\GenerateResource.read.1.tlog
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Release\GenerateResource.write.1.tlog
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Release\DeviceControl.exe
+E:\CSharpProjects\DeviceControl\DeviceControl\obj\x86\Release\DeviceControl.pdb
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\bin\Release\DeviceControl.exe.config
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\bin\Release\DeviceControl.exe
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\bin\Release\DeviceControl.pdb
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Release\DeviceControl.ScreenCapture.resources
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Release\DeviceControl.Properties.Resources.resources
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Release\GenerateResource.read.1.tlog
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Release\GenerateResource.write.1.tlog
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Release\DeviceControl.exe
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Release\DeviceControl.pdb
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\bin\Release\DeviceControl.exe.manifest
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\bin\Release\DeviceControl.application
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Release\DeviceControl.exe.manifest
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Release\DeviceControl.application

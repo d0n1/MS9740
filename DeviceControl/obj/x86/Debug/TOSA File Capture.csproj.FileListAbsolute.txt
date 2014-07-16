@@ -1,0 +1,42 @@
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\DeviceControl.frmMain.resources
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\bin\Debug\TOSAFileCapture.exe.config
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\bin\Debug\TOSAFileCapture.exe.manifest
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\bin\Debug\TOSAFileCapture.application
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\bin\Debug\TOSAFileCapture.exe
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\bin\Debug\TOSAFileCapture.pdb
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\TOSAFileCapture.Properties.Resources.resources
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\TOSAFileCapture.exe.manifest
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\TOSAFileCapture.application
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\TOSAFileCapture.exe
+E:\CSharpProjects\DeviceControl_Mar3 2014\DeviceControl\obj\x86\Debug\TOSAFileCapture.pdb
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\bin\Debug\TOSAFileCapture.exe.config
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\obj\x86\Debug\TOSAFileCapture.exe
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\obj\x86\Debug\TOSAFileCapture.pdb
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\bin\Debug\TOSAFileCapture.exe.manifest
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\bin\Debug\TOSAFileCapture.application
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\bin\Debug\TOSAFileCapture.exe
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\bin\Debug\TOSAFileCapture.pdb
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\obj\x86\Debug\DeviceControl.frmMain.resources
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\obj\x86\Debug\TOSAFileCapture.Properties.Resources.resources
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\obj\x86\Debug\TOSAFileCapture.exe.manifest
+E:\SourceCode\CSharpProjects\TOSA File Capture_FinalVer\DeviceControl\obj\x86\Debug\TOSAFileCapture.application
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\bin\Debug\TOSAFileCapture.exe.config
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\bin\Debug\TOSAFileCapture.exe.manifest
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\bin\Debug\TOSAFileCapture.application
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\bin\Debug\TOSAFileCapture.exe
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\bin\Debug\TOSAFileCapture.pdb
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\obj\x86\Debug\DeviceControl.frmMain.resources
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\obj\x86\Debug\TOSAFileCapture.Properties.Resources.resources
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\obj\x86\Debug\TOSAFileCapture.exe.manifest
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\obj\x86\Debug\TOSAFileCapture.application
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\obj\x86\Debug\TOSAFileCapture.exe
+C:\Documents and Settings\donl\桌面\MS9740FileCapture\TOSA File Capture_FinalVer20140320\DeviceControl\obj\x86\Debug\TOSAFileCapture.pdb

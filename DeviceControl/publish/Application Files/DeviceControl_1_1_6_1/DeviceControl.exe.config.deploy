@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<configuration>
+<configSections>
+</configSections>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup>	<runtime>
+		<assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+			<dependentAssembly>
+				<assemblyIdentity name="NationalInstruments.Common" publicKeyToken="18CBAE0F9955702A" culture="neutral"/>
+				<bindingRedirect oldVersion="0.0.0.0-13.0.35.190" newVersion="13.0.35.190"/>
+			</dependentAssembly>
+		</assemblyBinding>
+	</runtime>
+    <!--<userSettings>
+        <DeviceControl.Properties.Settings>
+            <setting name="OSADir" serializeAs="String">
+                <value>\D$\Anritsu Corporation\Optical Spectrum Analyzer\User Data</value>
+            </setting>
+            <setting name="Driver" serializeAs="String">
+                <value>Z:</value>
+            </setting>
+        </DeviceControl.Properties.Settings>
+    </userSettings>-->
+</configuration>
